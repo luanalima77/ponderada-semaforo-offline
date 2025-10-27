@@ -90,7 +90,7 @@ void ligarSemaforo(){
 
 //Função para manter a lógica do semáforo em constante repetição.
 void loop() {
-	
+	ligarSemaforo();
 }
 
 

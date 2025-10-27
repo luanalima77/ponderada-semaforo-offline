@@ -10,3 +10,6 @@ uint32_t portaLEDVerde = 11;
 unsigned long tempoAtual;
 unsigned long tempoAnterior = 0;
 unsigned long tempoQuePassou;
+
+//Variável para armazenar o estado do LED (0 é vermelho, 1 é amarelo e 2 é verde).
+int led = 0;

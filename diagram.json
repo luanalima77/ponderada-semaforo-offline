@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "author": "Luana Lima",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-breadboard", "id": "bb1", "top": -89.4, "left": 41.2, "attrs": {} },
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": -85.8, "left": -250.2, "attrs": {} },
+    {
+      "type": "wokwi-led",
+      "id": "led1",
+      "top": -61.2,
+      "left": 128.6,
+      "attrs": { "color": "red" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led2",
+      "top": -61.2,
+      "left": 339.8,
+      "attrs": { "color": "yellow" }
+    },
+    {
+      "type": "wokwi-led",
+      "id": "led3",
+      "top": -61.2,
+      "left": 579.8,
+      "attrs": { "color": "limegreen" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r1",
+      "top": -5.65,
+      "left": 153.6,
+      "attrs": { "value": "1000" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r2",
+      "top": -5.65,
+      "left": 364.8,
+      "attrs": { "value": "1000" }
+    },
+    {
+      "type": "wokwi-resistor",
+      "id": "r3",
+      "top": -5.65,
+      "left": 604.8,
+      "attrs": { "value": "1000" }
+    }
+  ],
+  "connections": [
+    [ "bb1:16t.a", "uno:13", "red", [ "v-105.6", "h-336", "v-28.8" ] ],
+    [ "uno:GND.1", "bb1:tn.1", "black", [ "v-38.4", "h221.1" ] ],
+    [ "bb1:9t.d", "bb1:tn.2", "black", [ "v0", "h-96", "v-48", "h48" ] ],
+    [ "led1:A", "bb1:10t.c", "", [ "$bb" ] ],
+    [ "led1:C", "bb1:9t.c", "", [ "$bb" ] ],
+    [ "led2:A", "bb1:32t.c", "", [ "$bb" ] ],
+    [ "led2:C", "bb1:31t.c", "", [ "$bb" ] ],
+    [ "led3:A", "bb1:57t.c", "", [ "$bb" ] ],
+    [ "led3:C", "bb1:56t.c", "", [ "$bb" ] ],
+    [ "r1:1", "bb1:10t.e", "", [ "$bb" ] ],
+    [ "r1:2", "bb1:16t.e", "", [ "$bb" ] ],
+    [ "r2:1", "bb1:32t.e", "", [ "$bb" ] ],
+    [ "r2:2", "bb1:38t.e", "", [ "$bb" ] ],
+    [ "r3:1", "bb1:57t.e", "", [ "$bb" ] ],
+    [ "r3:2", "bb1:63t.e", "", [ "$bb" ] ],
+    [ "bb1:31t.e", "bb1:tn.19", "black", [ "v9.6", "h-57.6" ] ],
+    [ "bb1:38t.a", "uno:12", "black", [ "v-134.4", "h-528" ] ],
+    [ "bb1:56t.e", "bb1:tn.40", "black", [ "v19.2", "h-57.6" ] ],
+    [ "uno:11", "bb1:63t.a", "red", [ "v-124.8", "h768.6" ] ]
+  ],
+  "dependencies": {}
+}

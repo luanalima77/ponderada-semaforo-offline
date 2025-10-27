@@ -22,3 +22,8 @@ void setup() {
   
   Serial.begin(115000);
 }
+
+//Função para manter a lógica do semáforo em constante repetição.
+void loop() {
+
+}

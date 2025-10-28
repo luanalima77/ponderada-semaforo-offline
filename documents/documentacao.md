@@ -50,7 +50,12 @@
 
 |Componente| Especificação | Justificativa da escolha|
 | :--- | :--- |  :--- |
-| Adicionar componente | Adicionar especificação | Adicionar justificativa da escolha |
+| 4 resistores | 220 ohms| Deixar a intensidade da luz dos LEDs e do som do buzzer maior |
+| 3 LEDs | 1 LED vermelho, 1 LED amarelo e 1 LED verde|Essas são as cores do semáforo|
+| 1 buzzer | Dispositivo de saída sonora|Esse é um dos principais dispositivos de saída sonora, por isso foi escolhido|
+| 1 protoboard |Placa com 400 pinos|Essa placa foi escolhida para realizar as ligações elétricas|
+| 12 jumpers |Cabos macho-macho e macho-fêmea|Eles foram escolhidos por serem uma maneira simples e eficaz de realizar ligações elétricas|
+| 1 cabo USB para arduino |Cabo para auxiliar na energização do arduino|Sem esse cabo (em um primeiro momento), não há como energizar o arduino.|
 
 <p>Fonte: material produzido pela autora (2025).</p>
 </div>

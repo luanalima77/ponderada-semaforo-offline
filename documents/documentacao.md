@@ -103,7 +103,7 @@
 #### Nota final: 10.
 <br><br>
 
-#### Avaliador 2: 
+#### Avaliador 2: Luiz Hinuy
 <br>
 
 <div align = "center">
@@ -111,10 +111,12 @@
 
 |Critério| Nota |Observações do avaliador|
 | :--- | :--- |  :--- |
-|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores
-|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo
-|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários)
-|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores|3|Nenhuma
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo|3|Nenhuma
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários)|3| Apesar do uso da estrutura de controle if-else atribuindo números aos leds em vez de switch case em loop deixar o código um pouco maior, ele continua bem organizado e inteligível pois está bem comentado.
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código|1|Nenhuma
 
 <p>Fonte: material produzido pela autora (2025).</p>
 </div>
+
+#### Nota final: 10.

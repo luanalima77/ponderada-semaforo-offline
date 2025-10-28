@@ -15,6 +15,9 @@
 &nbsp; &nbsp; &nbsp; &nbsp;Mas por que mencionar tudo isso? Bom, neste projeto vamos criar um semáforo com LEDs, resistores, arduino e até mesmo um buzzer para indicar a transição do sinal amarelo para o vermelho. Primeiro, vamos simulá-lo na plataforma Wokwi e, depois, testá-lo na prática com os componentes eletrônicos que foram citados acima. Vamos lá?
 
 ## Simulação no Wokwi
+&nbsp; &nbsp; &nbsp; &nbsp;Basicamente, o Wokwi é uma plataforma de simulação de projetos de robótica. Ela ajuda muito, afinal você pode testar seu projeto virtualmente antes mesmo da montagem física, o que pode te ajudar a não queimar componentes eltrônicos. Você pode usar ele tanto online (Wokwi online) como offline (por meio do VS Code).
+&nbsp; &nbsp; &nbsp; &nbsp;Mas como fazer essa simulação? Confira os passos a seguir para descobrir!
+
 
 ## Link para o vídeo da montagem física (protoboard com LEDs conectados)
 

@@ -45,4 +45,14 @@
 
 ### 3.1 Tutorial com imagens, justificativas e link para o vídeo da montagem física 
 
+<div align = "center">
+<p>Quadro 1 - Quadro com as especificações dos componentes utilizados</p>
+
+|Componente| Especificação | Justificativa da escolha|
+| :--- | :--- |  :--- |
+| Adicionar componente | Adicionar especificação | Adicionar justificativa da escolha |
+
+<p>Fonte: material produzido pela autora (2025).</p>
+</div>
+
 ## <a name = "c4"></a> 4 Resultados das avaliações em pares

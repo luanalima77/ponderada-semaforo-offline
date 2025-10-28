@@ -22,7 +22,8 @@ void setup() {
   pinMode(portaLEDVermelho, OUTPUT);
   pinMode(portaLEDAmarelo, OUTPUT);
   pinMode(portaLEDVerde, OUTPUT);
-  
+  pinMode(portaBuzzer, OUTPUT);
+
   Serial.begin(115200);
 }
 

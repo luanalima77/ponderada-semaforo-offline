@@ -56,3 +56,35 @@
 </div>
 
 ## <a name = "c4"></a> 4 Resultados das avaliações em pares
+#### Avaliador 1: 
+<br>
+
+<div align = "center">
+<p>Quadro 2 - Quadro com a avaliação do avaliador 1</p>
+
+|Critério| Nota |Observações do avaliador|
+| :--- | :--- |  :--- |
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários)
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código
+
+<p>Fonte: material produzido pela autora (2025).</p>
+</div>
+<br><br>
+
+#### Avaliador 2: 
+<br>
+
+<div align = "center">
+<p>Quadro 2 - Quadro com a avaliação do avaliador 2</p>
+
+|Critério| Nota |Observações do avaliador|
+| :--- | :--- |  :--- |
+|Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores
+|Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo
+|Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários)
+|Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código
+
+<p>Fonte: material produzido pela autora (2025).</p>
+</div>

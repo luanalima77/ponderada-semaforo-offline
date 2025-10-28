@@ -81,6 +81,43 @@
 </div>
 
 ### 3.3 Tutorial com imagens
+#### &nbsp; &nbsp; &nbsp; &nbsp;Passo 1: conectar os LEDs no GND (polo negativo, fios azuis) e nas portas digitais (polo positivo, fios marrons). Não esqueça que o polo positivo dos LEDs devem ser intermediados por um resistor de 220 ohms.
+<div align = "center">
+<p>Figura 4 - LEDs conectados com os jumpers</p>
+<img src = "../assets/foto1Tutorial.jpg">
+<p>Fonte: material produzido pela autora (2025).</p>
+</div>
+<br><br>
+
+<div align = "center">
+<p>Figura 5 - Jumpers dos LEDs (polo positivo) ligados aos resistores de 220 ohms</p>
+<img src = "../assets/fotoResistoresLED.jpg">
+<p>Fonte: material produzido pela autora (2025).</p>
+</div>
+<br>
+
+<div align = "center">
+<p>Figura 6 - LEDs conectados nas portas digitais 13 (vermelho), 12 (amarelo) e 11 (verde)</p>
+<img src = "../assets/portasDigitais.jpg">
+<p>Fonte: material produzido pela autora (2025).</p>
+</div>
+<br>
+
+
+#### &nbsp; &nbsp; &nbsp; &nbsp;Passo 2: conectar o buzzer no GND (polo negativo, fio azul) e na porta digital 10 (polo positivo, fio marrom). Não esqueça que o polo positivo do buzzer deve ser intermediado por um resistor de 220 ohms.
+<div align = "center">
+<p>Figura 7 - LEDs conectados com os jumpers</p>
+<img src = "../assets/buzzer.jpg">
+<p>Fonte: material produzido pela autora (2025).</p>
+</div>
+<br><br>
+
+<div align = "center">
+<p>Figura 8 - Positivo do buzzer ligado na porta 10</p>
+<img src = "../assets/portasDigitais.jpg">
+<p>Fonte: material produzido pela autora (2025).</p>
+</div>
+<br>
 
 ### 3.4 Vídeo demonstrativo
 

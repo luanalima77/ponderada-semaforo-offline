@@ -43,7 +43,7 @@
 ## <a name = "c3"></a>3 Montagem física
 &nbsp; &nbsp; &nbsp; &nbsp;Após realizar a simulação no Wokwi, vamos para a montagem física do nosso projeto. Na próxima seção, veremos um tutorial de montagem com imagens, justificativas para a escolha de cada componente e um vídeo demonstrativo dessa montagem.
 
-### 3.1 Tutorial com imagens, justificativas e link para o vídeo da montagem física 
+### 3.1 Fotos do circuito montado
 <div align = "center">
 <p>Figura 2 - Foto 1 do circuito montado</p>
 <img src = "../assets/foto1Semaforo.jpg">
@@ -57,6 +57,7 @@
 <p>Fonte: material produzido pela autora (2025).</p>
 </div>
 
+### 3.2 Componentes e justificativa 
 <div align = "center">
 <p>Quadro 1 - Quadro com as especificações dos componentes utilizados</p>
 
@@ -71,6 +72,10 @@
 
 <p>Fonte: material produzido pela autora (2025).</p>
 </div>
+
+### 3.3 Tutorial com imagens
+
+### 3.4 Vídeo demonstrativo
 
 ## <a name = "c4"></a> 4 Resultados das avaliações em pares
 #### Avaliador 1: 

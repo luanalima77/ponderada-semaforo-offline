@@ -34,13 +34,13 @@ void ligarLED(int corDoLED){
     	break;
     case 1:
     	digitalWrite(portaLEDVermelho, !taLigado);
-    	digitalWrite(portaLEDAmarelo, taLigado);
-    	digitalWrite(portaLEDVerde, !taLigado);
+    	digitalWrite(portaLEDAmarelo, !taLigado);
+    	digitalWrite(portaLEDVerde, taLigado);
     	break;
     case 2:
     	digitalWrite(portaLEDVermelho, !taLigado);
-    	digitalWrite(portaLEDAmarelo, !taLigado);
-    	digitalWrite(portaLEDVerde, taLigado);
+    	digitalWrite(portaLEDAmarelo, taLigado);
+    	digitalWrite(portaLEDVerde, !taLigado);
     	break;
     default:
     	Serial.println("Meu caro dev, a porta do pino inserida não existe.");
@@ -71,18 +71,18 @@ void ligarSemaforo(){
     }
   }
   
-  //LED amarelo ligado.
+  //LED verde ligado.
   else if(led == 1){
     ligarLED(1);
-    if(tempoQuePassou >=2000){
+    if(tempoQuePassou >=4000){
       trocarLED();
     }
   }
   
-  //LED verde ligado.
+  //LED amarelo ligado.
   else if(led == 2){
     ligarLED(2);
-    if(tempoQuePassou >=4000){
+    if(tempoQuePassou >=2000){
       trocarLED();
     }
   }

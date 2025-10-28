@@ -62,6 +62,8 @@
 <br>
 
 ### 3.2 Componentes e justificativa 
+&nbsp; &nbsp; &nbsp; &nbsp; O quadro 1 apresenta todos os componentes usados neste projeto, bem como suas especificações e o porquê de suas escolhas.
+
 <div align = "center">
 <p>Quadro 1 - Quadro com as especificações dos componentes utilizados</p>
 

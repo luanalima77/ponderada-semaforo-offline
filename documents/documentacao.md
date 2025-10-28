@@ -16,8 +16,17 @@
 
 ## Simulação no Wokwi
 &nbsp; &nbsp; &nbsp; &nbsp;Basicamente, o Wokwi é uma plataforma de simulação de projetos de robótica. Ela ajuda muito, afinal você pode testar seu projeto virtualmente antes mesmo da montagem física, o que pode te ajudar a não queimar componentes eltrônicos. Você pode usar ele tanto online (Wokwi online) como offline (por meio do VS Code).
+
 &nbsp; &nbsp; &nbsp; &nbsp;Mas como fazer essa simulação? Confira os passos a seguir para descobrir!
 
+### Passo 1: instalando a extensão platformio
+&nbsp; &nbsp; &nbsp; &nbsp;Antes de mais nada, instale a extensão platformio no VS Code:
+
+<div align = "center">
+    <p>Figura 1 - Extensão platformio</p>
+    <img src = "../assets/platformio.png">
+    <p>Fonte: material retirado do VS Code.</p>
+</div>
 
 ## Link para o vídeo da montagem física (protoboard com LEDs conectados)
 

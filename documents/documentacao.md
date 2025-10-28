@@ -28,6 +28,13 @@
     <p>Fonte: material retirado do VS Code.</p>
 </div>
 
+### Passo 2: clonando este repositório
+&nbsp; &nbsp; &nbsp; &nbsp;Agora, clone este repositório colocando eeste código no terminal.
+
+```bash
+git clone https://github.com/luanalima77/ponderada-semaforo-offline.git
+```
+
 ## Link para o vídeo da montagem física (protoboard com LEDs conectados)
 
 ## Tutorial com imagens e justificativas

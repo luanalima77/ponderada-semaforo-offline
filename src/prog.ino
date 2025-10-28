@@ -74,7 +74,7 @@ void ligarSemaforo(){
   //LED amarelo ligado.
   else if(led == 1){
     ligarLED(1);
-    if(tempoQuePassou >=4000){
+    if(tempoQuePassou >=2000){
       trocarLED();
     }
   }
@@ -82,7 +82,7 @@ void ligarSemaforo(){
   //LED verde ligado.
   else if(led == 2){
     ligarLED(2);
-    if(tempoQuePassou >=2000){
+    if(tempoQuePassou >=4000){
       trocarLED();
     }
   }

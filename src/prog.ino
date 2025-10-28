@@ -6,6 +6,9 @@ uint32_t portaLEDVermelho = 13;
 uint32_t portaLEDAmarelo = 12;
 uint32_t portaLEDVerde = 11;
 
+//Declarando a porta do buzzer.
+uint32_t portaBuzzer = 10;
+
 //Declarando as variáveis de tempo.
 unsigned long tempoAtual;
 unsigned long tempoAnterior = 0;
@@ -47,11 +50,23 @@ void ligarLED(int corDoLED){
   }
 }
 
+//Função para tocar um alerta sonoro quando o led for o amarelo.
+void tocarAlerta(){
+  if(led == 2){
+    tone(portaBuzzer, 500);
+  }else{
+    noTone(portaBuzzer);
+  }
+}
+
 //Função para trocar o LED que está aceso dado o tempo de cada um.
 void trocarLED(){
   led++;
   tempoAnterior = tempoAtual;
-  
+
+  //Quando o sinal estiver no amarelo, tocar um alerta sonoro.
+  tocarAlerta();
+
   if(led > 2){
     led = 0;
   }

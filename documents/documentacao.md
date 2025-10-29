@@ -123,7 +123,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp;Além das imagens, é possível verificar o funcionamento do semáforo a partir do seguinte vídeo: 
 
 ## <a name = "c4"></a> 4 Resultados das avaliações em pares
-&nbsp; &nbsp; &nbsp; &nbsp;Depois da realização do semáforo, duas pessoas o avaliaram com base nos critérios passados pelo professor. Os quadros 1 e 2 mostram essas avaliações.
+&nbsp; &nbsp; &nbsp; &nbsp;Depois da realização do semáforo, duas pessoas o avaliaram com base nos critérios passados pelo professor. Os quadros 2 e 3 mostram essas avaliações.
 #### Avaliador 1: Isabela Peçanha
 <br>
 

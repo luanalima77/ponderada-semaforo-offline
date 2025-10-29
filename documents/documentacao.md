@@ -160,3 +160,6 @@
 </div>
 
 #### Nota final: 10.
+
+## <a name = "c5"></a> 5 Conclusão
+&nbsp; &nbsp; &nbsp; &nbsp;Dessa forma, o semáforo desenvolvido atingiu o objetivo proposto pela atividade, com a devida demonstração em vídeo e detalhamento em código e documentação. 

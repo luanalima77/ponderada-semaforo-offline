@@ -17,6 +17,8 @@
 
 [4. Resultados das avaliações em pares](#c4)
 
+[5. Conclusão](#c5)
+
 <br><br>
 
 

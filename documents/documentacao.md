@@ -122,6 +122,7 @@
 ### 3.4 Vídeo demonstrativo
 
 ## <a name = "c4"></a> 4 Resultados das avaliações em pares
+&nbsp; &nbsp; &nbsp; &nbsp;Depois da realização do semáforo, duas pessoas o avaliaram com base nos critérios passados pelo professor. Os quadros 1 e 2 mostram essas avaliações.
 #### Avaliador 1: Isabela Peçanha
 <br>
 

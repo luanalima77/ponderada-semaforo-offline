@@ -39,7 +39,7 @@
 <div align = "center">
     <p>Figura 1 - simulação no Wokwi</p>
     <img src = "../assets/simulacaoWokwi.png">
-    <p>Fonte: material produzido pela autora no Wokwi.</p>
+    <p>Fonte: material produzido pela autora no Wokwi (2025).</p>
 </div>
 
 ## <a name = "c3"></a>3 Montagem física

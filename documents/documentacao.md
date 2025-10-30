@@ -38,7 +38,7 @@
 
 <div align = "center">
     <p>Figura 1 - simulação no Wokwi</p>
-    <img src = "../assets/semaforo.png">
+    <img src = "../assets/simulacaoWokwi.png">
     <p>Fonte: material produzido pela autora no Wokwi.</p>
 </div>
 

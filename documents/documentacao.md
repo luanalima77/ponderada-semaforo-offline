@@ -238,6 +238,7 @@ void loop() {
 
 ### 3.4 Vídeo demonstrativo
 &nbsp; &nbsp; &nbsp; &nbsp;Além das imagens, é possível verificar o funcionamento do semáforo a partir do seguinte vídeo: 
+<a href ="https://drive.google.com/file/d/1mFpdMiDIMx3SPfohecE0lgtf34MCPIVV/view?usp=sharing">clique aqui</a>
 
 ## <a name = "c4"></a> 4 Resultados das avaliações em pares
 &nbsp; &nbsp; &nbsp; &nbsp;Depois da realização do semáforo, duas pessoas o avaliaram com base nos critérios passados pelo professor. Os quadros 2 e 3 mostram essas avaliações.

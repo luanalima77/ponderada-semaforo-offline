@@ -126,7 +126,7 @@
 
 ## <a name = "c4"></a> 4 Resultados das avaliações em pares
 &nbsp; &nbsp; &nbsp; &nbsp;Depois da realização do semáforo, duas pessoas o avaliaram com base nos critérios passados pelo professor. Os quadros 2 e 3 mostram essas avaliações.
-#### Avaliador 1: Isabela Peçanha
+#### Avaliador 1: Isabela Rosati Peçanha
 <br>
 
 <div align = "center">
@@ -145,7 +145,7 @@
 #### Nota final: 10.
 <br><br>
 
-#### Avaliador 2: Luiz Hinuy
+#### Avaliador 2: Luiz Felipe Paravatti Maciel Hinuy
 <br>
 
 <div align = "center">
